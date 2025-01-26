@@ -1,0 +1,22 @@
+body{
+    background-image: url('./bg.png');
+}
+
+.currency-main{
+    width: 420px;
+    height: 450px;
+    background-color:white;
+    margin-top: 50px;
+}
+.currency-main h2{
+   text-align: center;
+   padding-top: 30px;
+}
+.form-group label{
+    margin-top: 40px;
+    font-weight: 600;
+}
+.m-2{
+    width: 25%;
+}
+
